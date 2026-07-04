@@ -1,25 +1,40 @@
-# Recibo na Hora — Recibo profissional em segundos
+<div align="center">
 
-![status](https://img.shields.io/badge/status-EM_DESENVOLVIMENTO-lightgrey) &nbsp; por **Paulo Adriel** · [Paulocodex](https://paulocodex.com)
+# Recibo na Hora
 
-Recibo na Hora gera recibos e orçamentos profissionais em segundos — preenche, e sai pronto pra imprimir, enviar por WhatsApp, e-mail ou PDF. Sem planilha, sem dor de cabeça.
+**Recibos e orçamentos profissionais em segundos — pronto pra mandar no WhatsApp.**
 
-## O que faz
+![status](https://img.shields.io/badge/status-EM%20DESENVOLVIMENTO-34c759?style=for-the-badge) &nbsp; ![](https://img.shields.io/badge/-Android-1f1f1f?style=for-the-badge)
+
+[![Página do projeto](https://img.shields.io/badge/P%C3%A1gina%20do%20projeto-abrir-34c759?style=for-the-badge)](https://paulocodex.com/p/recibo-na-hora)
+
+</div>
+
+
+---
+
+
+## ✨ O que faz
 
 - Recibo pronto em segundos
 - Exporta PDF, WhatsApp, e-mail e impressão
 - Orçamentos também
 - Sem planilha nem template quebrado
 
-## Status
-
-**Em desenvolvimento** — projeto em andamento, ainda não finalizado.
-
-## Saiba mais
+## 🔗 Saiba mais
 
 - **Página do projeto:** https://paulocodex.com/p/recibo-na-hora
+- **Página do projeto:** https://paulocodex.com/p/recibo-na-hora
+
+## 👤 Sobre o dev
+
+**Paulo Adriel** — produtor de vídeo e desenvolvedor indie brasileiro. Construo o produto **e** a apresentação dele: código + identidade, motion e material de lançamento, do zero ao ar em 30 dias. Estúdio [Paulocodex](https://paulocodex.com).
 
 ---
-_Este repositório é apenas a **apresentação pública** do projeto. O código-fonte é fechado e não é distribuído aqui._
+<div align="center">
 
-Contato: paulobatista19988@proton.me
+📧 [paulobatista19988@proton.me](mailto:paulobatista19988@proton.me) &nbsp;·&nbsp; 🌐 [paulocodex.com](https://paulocodex.com) &nbsp;·&nbsp; 🐙 [github.com/Paulothedeveloper](https://github.com/Paulothedeveloper)
+
+_Repositório de **apresentação pública** — o código-fonte é fechado. Nada de dado ou segredo aqui._
+
+</div>
